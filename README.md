@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Osaigbovo
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 📫 You can connect with via Twitter @mykhael_09, Email: osaigbovomichael731@gmail.com, Discord @P208_Nagato#2500. 
 
 <!---
