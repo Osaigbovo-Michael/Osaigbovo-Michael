@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Osaigbovo
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
-- 📫 You can connect with via Twitter @mykhael_09, Email: osaigbovomichael731@gmail.com, Discord @P208_Nagato#2500. 
+- 📫 You can connect with via Email: osaigbovomic@gmail.com. 
 
 <!---
 Osaigbovo-Michael/Osaigbovo-Michael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
