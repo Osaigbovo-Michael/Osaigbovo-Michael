@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael Osaigbovo
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 📫 You can connect with via Email: osaigbovomic@gmail.com. 
 
 <!---
